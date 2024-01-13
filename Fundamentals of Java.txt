@@ -1,0 +1,26 @@
+Fundamentals of Java
+Assignments – 1
+
+Q.1 – What is Programming Language ?
+Ans. - A programming language is a formal system used to instruct computers in a way they can execute tasks. It consists of syntax and semantics that provide a set of rules for creating software. Programmers use these languages to write code, translating human-readable instructions into machine-executable commands. Popular languages include Python, Java, and C++. Each language serves specific purposes, emphasizing readability, efficiency, or versatility. The choice of programming language depends on the project's requirements and the developer's preferences. Mastering a language empowers programmers to design algorithms, create applications, and solve complex problems in the digital realm.
+
+Q.2 – Why Do We Need a Programming language ?
+Ans. - Programming languages are essential for communicating instructions to computers, enabling them to perform tasks. They provide a structured and human-readable way to write code, facilitating software development. Without programming languages, it would be challenging for humans to convey complex algorithms and logic to computers, hindering technological advancements.
+
+Q.3 – What are The Features Of Java ?
+Ans. – Some Features are :- 
+* An Object - Oriented Language.
+* Java is a Platform Independent.
+* It is a Simple and secure 
+* It Has Large standard Library
+
+
+Q.4 – What is an Object ?
+Ans.- In simple terms, an object in Java is like a blueprint for creating things in a computer program. It represents a specific item or idea and includes both its characteristics (like color or size) and actions it can perform (like making a sound). Objects help organize and structure code, making it easier to manage and understand. They are a fundamental part of Java's way of organizing and building software.
+
+Q.5 – What is Class ?
+Ans.- In Java, a class is a fundamental building block that serves as a blueprint for creating objects. It defines the structure and behavior that objects instantiated from the class will have.
+
+Q.6 – Explain about The main() method in Java ?
+Ans. - In Java, the `main` method is the entry point for program execution. It must have a specific signature, including `public static void main(String[] args )`. When a Java program runs, the JVM starts executing code inside the `main` method, making it the starting point for the application.
+ 
